@@ -12,11 +12,11 @@
       <td width="60%" align="left">
         <h3>About Me</h3>
         <ul>
-          <li>🛠️ Building **real-world, problem–solving software** with clean, scalable architecture.</li>
-          <li>🧠 Diving deep into **AI**, **Blockchain/Web3**, and **systems thinking**.</li>
-          <li>🤝 Contributing to **open source** and improving my craft through community projects.</li>
+          <li>🛠️ Building <b>real-world, problem–solving software</b> with clean, scalable architecture.</li>
+          <li>🧠 Diving deep into <b>AI</b>, <b>Blockchain/Web3</b>, and <b>systems thinking</b>.</li>
+          <li>🤝 Contributing to <b>open source</b> and improving my craft through community projects.</li>
           <li>🚀 Currently exploring:  
-  **Smart contracts**, **full-stack DApps**, **AI-powered tools**, **backend performance**.</li>
+  <b>Smart contracts</b>, <b>full-stack DApps</b>, <b>AI-powered tools</b>, <b>backend performance</b>.</li>
         </ul>
       </td>
       <td width="40%" align="center">
