@@ -7,23 +7,20 @@
 ---
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="60%" align="left">
-        <h3>🧭 About Me</h3>
-        <ul>
-          <li>🎯 Passionate <b>Web Developer</b> crafting impactful & user-centered experiences.</li>
-          <li>🧩 Solving real-world problems through <b>React</b>, <b>JavaScript</b>, and <b>APIs</b>.</li>
-          <li>🪄 Exploring <b>Blockchain</b>, <b>Web3</b>, and <b>AI-powered applications</b>.</li>
-          <li>🤝 Active in <b>Open Source</b> — contributing and learning from amazing devs.</li>
-          <li>🌱 Always curious and improving one commit at a time.</li>
-        </ul>
-      </td>
-      <td width="40%" align="center">
-        <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif" width="280" alt="3D Developer" />
-      </td>
-    </tr>
-  </table>
+  ## 🚀 What I’m Doing
+
+- Building **real-world, problem–solving software** with clean, scalable architecture.  
+- Diving deep into **AI**, **Blockchain/Web3**, and **systems thinking**.  
+- Contributing to **open source** and improving my craft through community projects.  
+- Currently exploring:  
+  **Smart contracts**, **full-stack DApps**, **AI-powered tools**, **backend performance**.
+
+---
+
+## 🧩 What I Know (and Actively Use)
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,tailwind,git,github,docker,vscode&perline=8" />
 </div>
 
 ---
@@ -40,9 +37,9 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
-| 🎵 [**SensAura**](https://github.com/AnantNagarajHegde/SensAura_app) | Blind Navigation Assistant. | Kotlin, ML |
-| ✅ [**UniFind**](https://github.com/AnantNagarajHegde/UniFind) | University Lost and Found Network. | HTML, CSS, JS, Node.js, Express.js, MySQL |
-| 🌿 [**Nerva**](https://github.com/AnantNagarajHegde/Nerva) | Emotion Detection integrated with sn IOT device. | Jupyter Notebook, C++ |
+| 👁️‍🗨️ [**SensAura**](https://github.com/AnantNagarajHegde/SensAura_app) | Blind Navigation Assistant. | Kotlin, ML |
+| 🔍 [**UniFind**](https://github.com/AnantNagarajHegde/UniFind) | University Lost and Found Network. | HTML, CSS, JS, Node.js, Express.js, MySQL |
+| 🧠 [**Nerva**](https://github.com/AnantNagarajHegde/Nerva) | Emotion Detection integrated with sn IOT device. | Jupyter Notebook, C++ |
 
 ---
 
