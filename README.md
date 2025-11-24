@@ -1,7 +1,7 @@
 <!-- 🌐 Modern & Responsive GitHub Profile README for Anant Nagaraj Hegde -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=900&color=F7971E&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Anant+Nagaraj+Hegde+👋;Web+Developer+%7C+Open+Source+Contributor+%7C+Blockchain+Explorer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2800&pause=900&color=F7971E&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Anant+Nagaraj+Hegde+👋;Web+Developer+%7C+Open+Source+Contributor+%7C+Web3+Explorer" alt="Typing Animation" />
 </h1>
 
 ---
