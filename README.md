@@ -13,10 +13,8 @@
         <h3>About Me</h3>
         <ul>
           <li>🛠️ Building <b>real-world, problem–solving software</b> with clean, scalable architecture.</li>
-          <li>🧠 Diving deep into <b>AI</b>, <b>Blockchain/Web3</b>, and <b>systems thinking</b>.</li>
-          <li>🤝 Contributing to <b>open source</b> and improving my craft through community projects.</li>
           <li>🚀 Currently exploring:  
-  <b>Smart contracts</b>, <b>full-stack DApps</b>, <b>AI-powered tools</b>, <b>backend performance</b>.</li>
+  <b>AI-powered tools</b>, <b>backend performance</b>.</li>
         </ul>
       </td>
       <td width="40%" align="center">
