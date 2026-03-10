@@ -48,7 +48,6 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnantNagarajHegde&show_icons=true&theme=radical&hide_border=true" height="180em" />
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantNagarajHegde&theme=radical&hide_border=true" height="180em" />
 </div>
-
