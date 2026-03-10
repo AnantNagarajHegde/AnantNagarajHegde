@@ -52,12 +52,3 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnantNagarajHegde&theme=radical&hide_border=true" height="180em" />
 </div>
 
----
-
-### 🌈 Top Languages  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnantNagarajHegde&layout=compact&theme=radical&hide_border=true" width="45%" />
-</div>
-
----
