@@ -39,6 +39,7 @@
 
 | Project | Description | Tech Stack |
 |----------|--------------|-------------|
+| 🎓 [**Queryling.ai**](https://github.com/AnantNagarajHegde/Queryling.ai) | AI powered learning platform. | Typescript |
 | 👁️‍🗨️ [**SensAura**](https://github.com/AnantNagarajHegde/SensAura_app) | Blind Navigation Assistant. | Kotlin, ML |
 | 🔍 [**UniFind**](https://github.com/AnantNagarajHegde/UniFind) | University Lost and Found Network. | HTML, CSS, JS, Node.js, Express.js, MySQL |
 | 🧠 [**Nerva**](https://github.com/AnantNagarajHegde/Nerva) | Emotion Detection integrated with an IOT device. | Jupyter Notebook, C++ |
